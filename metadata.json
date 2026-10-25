@@ -1,0 +1,6 @@
+{
+  "name": "EcoTwin AI",
+  "description": "Immersive 3D Smart Building Digital Twin for real-time energy analytics, HVAC zone control, and AI optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
